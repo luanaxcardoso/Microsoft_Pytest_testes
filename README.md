@@ -1,5 +1,14 @@
 ### Bootcamp Python & Django - WoMakers Code
 
+Introdução a testes no Python (Desafio 5)
+https://learn.microsoft.com/pt-br/training/modules/python-get-started-testing/
+
+Fazer testes com Pytest (Desafio 5)
+https://learn.microsoft.com/pt-br/training/modules/test-python-with-pytest/
+
+Teste Avançado com Pytest (Desafio 5)
+https://learn.microsoft.com/pt-br/training/modules/python-advanced-pytest/
+
 ## Unittest e Pytest 
 ### São frameworks de teste em Python que permitem escrever e executar testes automatizados para verificar a funcionalidade do código.
 
